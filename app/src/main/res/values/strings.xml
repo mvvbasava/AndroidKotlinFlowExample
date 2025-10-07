@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidKotlinFlowExample</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="comment">Comment</string>
+    <string name="email">Email</string>
+    <string name="id">Id</string>
+</resources>
